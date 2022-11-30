@@ -34,9 +34,9 @@ if __name__ == '__main__':
 
 ##### Output:
 
-![TS-for-TSP](C:\Users\dell\Desktop\研究生\个人算法主页\Tabu Search\TS-for-TSP.gif)
+![](https://github.com/Xavier-MaYiMing/Tabu-Search/blob/main/TS-for-TSP.gif)
 
-![convergence iteration](C:\Users\dell\Desktop\研究生\个人算法主页\Tabu Search\convergence iteration.png)
+![](https://github.com/Xavier-MaYiMing/Tabu-Search/blob/main/convergence%20iteration.png)
 
 The TS converges at its 20-th iteration, and the global best value is 46.273638987858966. 
 
